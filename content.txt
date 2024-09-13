@@ -1,1 +1,38 @@
-CONFLICT WIP 
+---------------------
+Conflict Server Info
+---------------------
+Current Version: 1.25 Chernarus
+Next Wipe: 1.26 Patch
+
+---------------------
+Key Cards
+---------------------
+Orange Keycard - Black Lake
+Blue Keycard - Tisy HQ
+Red Keycard - Stary Yar Factory
+
+---------------------
+Auto Run
+---------------------
+Shortcut - Z
+
+---------------------
+Group Management
+---------------------
+Shortcut - M
+
+---------------------
+Building Territory
+---------------------
+Requires a Flag
+Combine 3 short sticks with a rope.
+
+---------------------
+Starter Kits
+---------------------
+(Not available at the start of wipe)
+Instructions:
+On Discord - Open a Starter Kit Ticket
+Follow instructions given
+Combine the kit with any tool to gain items.
+--------------------- 
