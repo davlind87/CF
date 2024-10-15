@@ -1,8 +1,8 @@
 ---------------------
 Conflict Server Info
 ---------------------
-Current Version: 1.25 Chernarus
-Next Wipe: 1.26 Patch
+Current Version: 1.26 Chernarus
+Last wipe: 15th October
 
 ---------------------
 Key Cards
@@ -10,6 +10,7 @@ Key Cards
 Orange Keycard - Black Lake
 Blue Keycard - Tisy HQ
 Red Keycard - Stary Yar Factory
+Purple Keycard - CDF Armory
 
 ---------------------
 Auto Run
@@ -24,7 +25,6 @@ Shortcut - M
 ---------------------
 Building Territory
 ---------------------
-Requires a Flag
 Combine 3 short sticks with a rope.
 
 ---------------------
