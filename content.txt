@@ -2,6 +2,8 @@
 Conflict Server Info
 ---------------------
 Current Version: 1.26 Chernarus
+Last server patch: 25th October
+See changelog in our discord. 
 Last wipe: 15th October
 
 ---------------------
@@ -11,6 +13,7 @@ Orange Keycard - Black Lake
 Blue Keycard - Tisy HQ
 Red Keycard - Stary Yar Factory
 Purple Keycard - CDF Armory
+Black Keycard - CDF Oilrig
 
 ---------------------
 Auto Run
@@ -30,7 +33,6 @@ Combine 3 short sticks with a rope.
 ---------------------
 Starter Kits
 ---------------------
-(Not available at the start of wipe)
 Instructions:
 On Discord - Open a Starter Kit Ticket
 Follow instructions given
