@@ -2,7 +2,7 @@
 Conflict Server Info
 ---------------------
 Current Version: 1.26 Chernarus
-Last server patch: 25th October
+Last server patch: 4th November
 See changelog in our discord. 
 Last wipe: 15th October
 
