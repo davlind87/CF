@@ -2,11 +2,17 @@
 Conflict Server Info
 ---------------------
 Current Version: 1.26 Chernarus
-Last server patch: 4th November
+Last server patch: 9th November
 See changelog in our discord. 
 Last wipe: 15th October
 
+Starter Kits
 ---------------------
+Instructions:
+On Discord - Open a Starter Kit Ticket
+Follow instructions given
+Combine the kit with any tool to gain items.
+
 Key Cards
 ---------------------
 Orange Keycard - Black Lake
@@ -15,26 +21,11 @@ Red Keycard - Stary Yar Factory
 Purple Keycard - NWAF Bunker
 Black Keycard - CDF Oilrig
 
----------------------
-Auto Run
----------------------
-Shortcut - Z
-
----------------------
 Group Management
 ---------------------
 Shortcut - M
 
----------------------
 Building Territory
 ---------------------
 Combine 3 short sticks with a rope.
 
----------------------
-Starter Kits
----------------------
-Instructions:
-On Discord - Open a Starter Kit Ticket
-Follow instructions given
-Combine the kit with any tool to gain items.
---------------------- 
