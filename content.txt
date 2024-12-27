@@ -3,15 +3,15 @@ Conflict Server Info
 ---------------------
 Promo Video https://tinyurl.com/3wek8c5b (Youtube)
 
-Next wipe: 27th December
+Wiped: 27th December
 Current Version: 1.26 Chernarus
-Last server patch: 28th November
+Last server patch: 27th December
 See changelog in our discord. 
 
 Key Cards
 ---------------------
 Orange Keycard - Black Lake
-Blue Keycard - Tisy HQ
+Blue Keycard - VMC
 Red Keycard - Stary Yar Factory
 Purple Keycard - NWAF Bunker
 Black Keycard - CDF Oilrig
