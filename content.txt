@@ -4,7 +4,8 @@ Conflict Server Info
 Teaser Season 5 https://youtu.be/0YPWwBURLqE 
 Promo Video https://youtu.be/auiAUdUwK68
 
-Wiped: 1th February
+Wiped: 1st February
+Next wipe: 1st April
 Season: 4 
 Current Version: 1.27 Chernarus
 Last server patch: 25th February
